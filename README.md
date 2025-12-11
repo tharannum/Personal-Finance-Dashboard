@@ -45,6 +45,8 @@ Key measures were created to drive the dashboard's interactivity and insights:
     *  `Income Change MoM%`: Month-over-Month income growth.
     *  `Monthly_Growth`: Comparison of current vs. previous year monthly sales/values.
 *  **Dynamic Visual Switching:** A `SWITCH` function (`Line_chart_measure`) allows the main chart to toggle between displaying Expense%, Income Change, Saving%, or Target based on user selection.
+## Overview of Dashboard 
+![Dashboard](https://github.com/tharannum/Personal-Finance-Dashboard/blob/main/financial%20dashboard%20.jpg)
 
 ## 6. Feature Highlights & Walkthrough of Key Visuals
 
